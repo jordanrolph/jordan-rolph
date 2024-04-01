@@ -110,8 +110,8 @@ export default function Home() {
               >
                 9fin.com
               </a>
-              . We're always hiring good people, so if you're interested in
-              joining the team, just reach out.
+              . We&apos;re always hiring good people, so if you&apos;re
+              interested in joining the team, just reach out.
             </p>
             <p className="mt-10">
               On the side I&apos;m playing with{" "}
